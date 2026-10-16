@@ -1,0 +1,1392 @@
+.clean-shoes-express {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  background-color: #f8f9f6;
+}
+
+.clean-shoes-express .beranda {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .header {
+  display: flex;
+  height: 96px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: transparent;
+}
+
+.clean-shoes-express .div {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .brand-mark {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #2755e8;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .vector-wrapper {
+  position: relative;
+  width: 22px;
+  height: 22px;
+}
+
+.clean-shoes-express .vector {
+  position: absolute;
+  width: 91.59%;
+  height: 95.76%;
+  top: 4.24%;
+  left: 8.41%;
+}
+
+.clean-shoes-express .wordmark {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .brand-name {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #17201f;
+  font-size: 16px;
+  letter-spacing: -0.08px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .brand-descriptor {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #59615e;
+  font-size: 10px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .navbar {
+  display: inline-flex;
+  align-items: center;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .navigation-link {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2755e8;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #59615e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .contact-action {
+  display: inline-flex;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #2755e8;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+}
+
+.clean-shoes-express .action-label {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .img-wrapper {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.clean-shoes-express .img {
+  position: absolute;
+  width: 96.17%;
+  height: 96.17%;
+  top: 3.83%;
+  left: 3.83%;
+}
+
+.clean-shoes-express .hero-content {
+  display: flex;
+  align-items: center;
+  gap: 56px;
+  padding: 28px 64px 48px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .opening-message {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  align-items: flex-start;
+  gap: 28px;
+  position: relative;
+}
+
+.clean-shoes-express .section-label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2755e8;
+  font-size: 11px;
+  letter-spacing: 0.2px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .slogan {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: transparent;
+  font-size: 86px;
+  letter-spacing: -3.78px;
+  line-height: 89.4px;
+}
+
+.clean-shoes-express .span {
+  color: #17201f;
+  letter-spacing: -3.25px;
+}
+
+.clean-shoes-express .text-wrapper-2 {
+  color: #2755e8;
+  letter-spacing: -3.25px;
+}
+
+.clean-shoes-express .introduction {
+  position: relative;
+  width: 460px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.clean-shoes-express .hero-actions {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .contact-action-2 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-color: #dde2dd;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0px 20px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+}
+
+.clean-shoes-express .action-label-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #17201f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .vector-2 {
+  position: absolute;
+  width: 83.67%;
+  height: 83.67%;
+  top: 16.33%;
+  left: 16.33%;
+}
+
+.clean-shoes-express .sneaker-editorial {
+  position: relative;
+  width: 582px;
+  height: 552px;
+  background-color: #eaf0ff;
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .fresh-sneaker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 582px;
+  height: 552px;
+  object-fit: cover;
+}
+
+.clean-shoes-express .editorial-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: #ffffff;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .vector-wrapper-2 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+
+.clean-shoes-express .vector-3 {
+  position: absolute;
+  width: 98.11%;
+  height: 98.10%;
+  top: 0;
+  left: 0;
+}
+
+.clean-shoes-express .image-label {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 10px;
+  letter-spacing: 0.06px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .studio-caption {
+  display: flex;
+  width: 542px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+
+.clean-shoes-express .editorial-caption {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #17201f;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .arrow-up-right {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.clean-shoes-express .vector-4 {
+  position: absolute;
+  width: 74.58%;
+  height: 74.58%;
+  top: 25.42%;
+  left: 25.42%;
+}
+
+.clean-shoes-express .local-studio-strip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 22px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #eaf0ff;
+}
+
+.clean-shoes-express .vector-wrapper-3 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+
+.clean-shoes-express .vector-5 {
+  position: absolute;
+  width: 88.33%;
+  height: 96.67%;
+  top: 3.33%;
+  left: 11.67%;
+}
+
+.clean-shoes-express .local-introduction {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #17201f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.clean-shoes-express .audience {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #2755e8;
+  font-size: 12px;
+  letter-spacing: 0.12px;
+  line-height: normal;
+}
+
+.clean-shoes-express .layanan {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 36px;
+  padding: 80px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .section-introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .section-title {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 48px;
+  letter-spacing: -0.96px;
+  line-height: 52.8px;
+}
+
+.clean-shoes-express .section-description {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+
+.clean-shoes-express .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .service-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .service-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 24px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #dde2dd;
+}
+
+.clean-shoes-express .div-3 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .service-symbol {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #eaf0ff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .vector-wrapper-4 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+
+.clean-shoes-express .vector-6 {
+  position: absolute;
+  width: 92.25%;
+  height: 96.42%;
+  top: 3.58%;
+  left: 7.75%;
+}
+
+.clean-shoes-express .service-name {
+  position: relative;
+  flex: 1;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #17201f;
+  font-size: 18px;
+  letter-spacing: -0.07px;
+  line-height: 23.4px;
+}
+
+.clean-shoes-express .price {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 30px;
+  letter-spacing: -0.36px;
+  line-height: normal;
+}
+
+.clean-shoes-express .service-description {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+}
+
+.clean-shoes-express .divider {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: #dde2dd;
+}
+
+.clean-shoes-express .turnaround-time {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .turnaround-label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #59615e;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .confirmation {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .vector-7 {
+  position: absolute;
+  width: 98.10%;
+  height: 98.10%;
+  top: 0;
+  left: 0;
+}
+
+.clean-shoes-express .turnaround-value {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #2755e8;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .vector-8 {
+  position: absolute;
+  width: 92.24%;
+  height: 88.39%;
+  top: 11.61%;
+  left: 7.76%;
+}
+
+.clean-shoes-express .vector-9 {
+  position: absolute;
+  width: 96.42%;
+  height: 96.41%;
+  top: 3.59%;
+  left: 3.58%;
+}
+
+.clean-shoes-express .vector-10 {
+  position: absolute;
+  width: 96.41%;
+  height: 96.41%;
+  top: 3.59%;
+  left: 3.59%;
+}
+
+.clean-shoes-express .vector-11 {
+  position: absolute;
+  width: 96.40%;
+  height: 96.41%;
+  top: 3.59%;
+  left: 3.60%;
+}
+
+.clean-shoes-express .service-consultation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  padding: 24px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #eaf0ff;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .message-circle {
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+
+.clean-shoes-express .vector-12 {
+  position: absolute;
+  width: 94.88%;
+  height: 94.88%;
+  top: 5.12%;
+  left: 5.12%;
+}
+
+.clean-shoes-express .consultation-title {
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 25px;
+  letter-spacing: -0.2px;
+  line-height: 28.7px;
+  position: relative;
+  align-self: stretch;
+}
+
+.clean-shoes-express .consultation {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  align-self: stretch;
+}
+
+.clean-shoes-express .contact-action-3 {
+  display: inline-flex;
+  background-color: #2755e8;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0px 20px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+}
+
+.clean-shoes-express .vector-13 {
+  position: absolute;
+  width: 75.33%;
+  height: 75.33%;
+  top: 24.67%;
+  left: 24.67%;
+}
+
+.clean-shoes-express .care-note {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+}
+
+.clean-shoes-express .tentang {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 80px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #eff2ed;
+}
+
+.clean-shoes-express .studio-story {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .shoe-care-editorial {
+  display: flex;
+  flex-direction: column;
+  width: 534px;
+  height: 484px;
+  align-items: flex-start;
+  position: relative;
+  background-color: #eaf0ff;
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .care-detail {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  object-fit: cover;
+}
+
+.clean-shoes-express .image-caption {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 10px 14px;
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.clean-shoes-express .care-message {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 10px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .studio-introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.clean-shoes-express .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #17201f;
+  font-size: 44px;
+  letter-spacing: -0.66px;
+  line-height: 49.3px;
+}
+
+.clean-shoes-express .about-description {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+
+.clean-shoes-express .visit-step {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .step-marker {
+  position: relative;
+  width: 28px;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #2755e8;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.clean-shoes-express .step-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.clean-shoes-express .step-title {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #17201f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .step-details {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #59615e;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 20.1px;
+}
+
+.clean-shoes-express .kontak {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px;
+  padding: 80px 64px 28px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #172622;
+}
+
+.clean-shoes-express .contact-content {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .contact-invitation {
+  display: flex;
+  flex-direction: column;
+  width: 546px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+}
+
+.clean-shoes-express .section-label-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #becbc5;
+  font-size: 11px;
+  letter-spacing: 0.2px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .contact-title {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: -1.4px;
+  line-height: 60.5px;
+}
+
+.clean-shoes-express .contact-description {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #becbc5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+
+.clean-shoes-express .whatsapp-number {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #becbc5;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .studio-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 32px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #45574f;
+}
+
+.clean-shoes-express .vector-14 {
+  position: absolute;
+  width: 87.42%;
+  height: 95.76%;
+  top: 4.24%;
+  left: 12.58%;
+}
+
+.clean-shoes-express .location-title {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .div-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.clean-shoes-express .detail-label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #becbc5;
+  font-size: 11px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .street-address {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.clean-shoes-express .div-5 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: #45574f;
+}
+
+.clean-shoes-express .hours {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+
+.clean-shoes-express .contact-action-4 {
+  display: flex;
+  align-self: stretch;
+  width: 100%;
+  background-color: #172622;
+  border-color: #60726a;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0px 20px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+}
+
+.clean-shoes-express .footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: transparent;
+}
+
+.clean-shoes-express .brand-name-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: -0.08px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .brand-descriptor-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #becbc5;
+  font-size: 10px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clean-shoes-express .closing-line {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #becbc5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .vector-15 {
+  position: absolute;
+  width: 96.67%;
+  height: 96.67%;
+  top: 3.33%;
+  left: 3.33%;
+}
+
+.clean-shoes-express .instagram-handle {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clean-shoes-express .arrow-up-right-2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.clean-shoes-express .vector-16 {
+  position: absolute;
+  width: 76.46%;
+  height: 76.45%;
+  top: 23.55%;
+  left: 23.54%;
+}
+/* Inject after the existing style.css rules. These overrides preserve the
+   original desktop composition while making semantic controls and narrow
+   viewports usable. */
+
+.clean-shoes-express a {
+  color: inherit;
+}
+
+.clean-shoes-express figure,
+.clean-shoes-express address,
+.clean-shoes-express h1,
+.clean-shoes-express h2,
+.clean-shoes-express h3 {
+  margin: 0;
+}
+
+.clean-shoes-express .contact-action,
+.clean-shoes-express .contact-action-2,
+.clean-shoes-express .contact-action-3,
+.clean-shoes-express .contact-action-4 {
+  text-decoration: none;
+}
+
+.clean-shoes-express .header > .div,
+.clean-shoes-express .footer > .div {
+  text-decoration: none;
+}
+
+.clean-shoes-express a:focus-visible {
+  outline: 3px solid #f5c542;
+  outline-offset: 3px;
+}
+
+.clean-shoes-express .fresh-sneaker,
+.clean-shoes-express .care-detail {
+  display: block;
+}
+
+@media (max-width: 1100px) {
+  .clean-shoes-express .header,
+  .clean-shoes-express .hero-content,
+  .clean-shoes-express .local-studio-strip,
+  .clean-shoes-express .layanan,
+  .clean-shoes-express .tentang,
+  .clean-shoes-express .kontak {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .clean-shoes-express .hero-content {
+    gap: 32px;
+  }
+
+  .clean-shoes-express .opening-message {
+    width: min(50%, 600px);
+  }
+
+  .clean-shoes-express .sneaker-editorial {
+    width: min(50%, 582px);
+  }
+
+  .clean-shoes-express .fresh-sneaker {
+    width: 100%;
+    height: 100%;
+  }
+
+  .clean-shoes-express .studio-story,
+  .clean-shoes-express .contact-content {
+    gap: 40px;
+  }
+
+  .clean-shoes-express .shoe-care-editorial {
+    width: min(48%, 534px);
+  }
+
+  .clean-shoes-express .contact-invitation {
+    width: 48%;
+  }
+}
+
+@media (max-width: 760px) {
+  .clean-shoes-express .header {
+    height: auto;
+    min-height: 76px;
+    flex-wrap: wrap;
+    gap: 18px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .clean-shoes-express .navbar {
+    order: 3;
+    width: 100%;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .clean-shoes-express .contact-action {
+    height: 46px;
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .clean-shoes-express .hero-content,
+  .clean-shoes-express .studio-story,
+  .clean-shoes-express .contact-content {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .clean-shoes-express .hero-content {
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
+
+  .clean-shoes-express .opening-message,
+  .clean-shoes-express .contact-invitation,
+  .clean-shoes-express .shoe-care-editorial,
+  .clean-shoes-express .sneaker-editorial {
+    width: 100%;
+  }
+
+  .clean-shoes-express .sneaker-editorial {
+    height: auto;
+    aspect-ratio: 582 / 552;
+  }
+
+  .clean-shoes-express .introduction {
+    width: 100%;
+  }
+
+  .clean-shoes-express .slogan {
+    font-size: clamp(48px, 14vw, 86px);
+    line-height: 1.04;
+  }
+
+  .clean-shoes-express .section-title {
+    font-size: clamp(36px, 9vw, 48px);
+    line-height: 1.1;
+  }
+
+  .clean-shoes-express .service-row {
+    flex-direction: column;
+  }
+
+  .clean-shoes-express .service-card,
+  .clean-shoes-express .service-consultation {
+    width: 100%;
+  }
+
+  .clean-shoes-express .layanan,
+  .clean-shoes-express .tentang,
+  .clean-shoes-express .kontak {
+    padding-top: 56px;
+    padding-bottom: 56px;
+  }
+
+  .clean-shoes-express .p {
+    font-size: clamp(34px, 9vw, 44px);
+    line-height: 1.12;
+  }
+
+  .clean-shoes-express .contact-title {
+    font-size: clamp(42px, 11vw, 56px);
+    line-height: 1.08;
+  }
+
+  .clean-shoes-express .studio-details {
+    width: 100%;
+  }
+
+  .clean-shoes-express .footer {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .clean-shoes-express .local-studio-strip {
+    flex-wrap: wrap;
+  }
+
+  .clean-shoes-express .local-introduction {
+    flex-basis: calc(100% - 30px);
+  }
+
+  .clean-shoes-express .audience {
+    width: 100%;
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 420px) {
+  .clean-shoes-express .header,
+  .clean-shoes-express .hero-content,
+  .clean-shoes-express .local-studio-strip,
+  .clean-shoes-express .layanan,
+  .clean-shoes-express .tentang,
+  .clean-shoes-express .kontak {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .clean-shoes-express .navbar {
+    font-size: 12px;
+  }
+
+  .clean-shoes-express .navbar .text-wrapper,
+  .clean-shoes-express .navbar .navigation-link {
+    font-size: 12px;
+  }
+
+  .clean-shoes-express .hero-actions {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .clean-shoes-express .hero-actions .contact-action,
+  .clean-shoes-express .hero-actions .contact-action-2 {
+    width: 100%;
+  }
+
+  .clean-shoes-express .studio-details {
+    padding: 24px;
+  }
+}
